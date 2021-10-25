@@ -1,9 +1,11 @@
 # snippet-buildscript
 
 mvn/ - Maven Build script template
-	java-basic-template
-	java-multi-module-template
+- java-basic-template
+- java-multi-module-template
 
-TODO
+__TODO__
 gradle/
+- java-basic-template
+
 ant/
